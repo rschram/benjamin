@@ -1,0 +1,7 @@
+base     benjamin
+author   Ryan Schram
+email    ryan@rschram.org
+date     2014-07-28
+name     Benjamin Template, A Dokuwiki template based on Starter.
+desc     A responsive, logically-ordered, semantically-marked template based closely on Starter Template by Anika Henke. It has four layouts based on screen widths up to at least 1800 px wide. It's named in honor of Benjamin Lee Whorf, anthropologist.
+url      http://rschram.org/code/benjamin.zip
