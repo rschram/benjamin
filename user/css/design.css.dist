@@ -1,0 +1,56 @@
+#dokuwiki__header h1 { 
+    font-size: 1.6em; 
+    color: gray; 
+    font-weight: normal; 
+    font-family: sans-serif; 
+}
+#dokuwiki__header a, #dokuwiki__header a:visited { 
+    color: inherit; 
+} 
+
+.tools ul, .tools ul ul { 
+    margin: 0; 
+    padding: 0; 
+} 
+
+.tools ul li, .tools ul ul li { 
+    margin: 0;
+    padding: 0; 
+    list-style-type: none; 
+} 
+
+.tools ul li form, .tools ul li form input { 
+    margin: 0;
+    padding: 0; 
+    display: inline; 
+}
+
+#qsearch__in { 
+    width: 100px; margin: 0; padding: 0; border: 1px dotted gray; 
+    background-color: lightyellow; 
+} 
+.tools ul li form input.button { 
+    width: 70px; margin: 0; padding: 0; border: 1px dotted gray; 
+    font-family: sans-serif; font-size: 0.8em; 
+} 
+
+#dokuwiki__aside h1, #dokuwiki__aside h2, .tools h3, #dw__toc h3 { 
+    font-size: 1em;
+    font-weight: normal;
+    font-family: sans-serif; 
+    text-transform: uppercase; 
+    color: gray; 
+} 
+#dw__toc h3 { 
+    text-transform: inherit; 
+} 
+
+#dokuwiki__aside ul, #dokuwiki__aside ul ul { 
+    margin: 0 0 1em 0; padding: 0; 
+} 
+
+#dokuwiki__aside ul li { 
+    padding: 0.5em; 
+    list-style-type: bullet; 
+}
+
